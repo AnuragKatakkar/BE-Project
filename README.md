@@ -10,3 +10,7 @@
 4. [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas,
 5. [Learning What and Where to Draw](https://arxiv.org/abs/1610.02454) - Scott Reed, Zeynep Akata, Santosh Mohan, Samuel Tenka, Bernt Schiele, Honglak Lee,
 6. [Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396) - Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee
+
+#### Interesting Threads :
+
+1. "[Thread on how to review papers about generic improvements to GANs](https://twitter.com/goodfellow_ian/status/978339478560415744?lang=en)" - Ian Goodfellow
