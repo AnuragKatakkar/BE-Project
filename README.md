@@ -12,6 +12,7 @@
 6. [Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396) - Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee,
 7. [Generative Adversarial Networks(GANs) - What it can generate and what it cannot?](https://arxiv.org/pdf/1804.00140.pdf) - P Manisha, Sujit Gujar,
 
+8. Self-Attention Generative Adversarial Networks (https://arxiv.org/pdf/1805.08318.pdf) -Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena
 #### Interesting Threads :
 
 1. "[Thread on how to review papers about generic improvements to GANs](https://twitter.com/goodfellow_ian/status/978339478560415744?lang=en)" - Ian Goodfellow
