@@ -23,6 +23,7 @@
 8. [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485) - Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He,
 9. [A Novel Approach to Artistic Textual Visualization via GAN](https://arxiv.org/abs/1710.10553) - Yichi Ma, Muhan Ma
   
+10. Generating Text via Adversial Training (https://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf) - Yizhe Zhang, Zhe Gan, Lawrence Carin 
   ##### GANs for Super-resolution
 
 1. [High-Resolution Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1711.06491) - Joachim D. Curtó, Irene C. Zarza, Fernando De La Torre, Irwin King, Michael R. Lyu,
