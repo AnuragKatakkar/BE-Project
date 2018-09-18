@@ -32,3 +32,9 @@
 #### Interesting Threads :
 
 1. "[Thread on how to review papers about generic improvements to GANs](https://twitter.com/goodfellow_ian/status/978339478560415744?lang=en)" - Ian Goodfellow
+
+
+#### Learning Resources:
+1. Tensorflow (https://www.tensorflow.org/tutorials/)
+2. Fast.ai
+
