@@ -13,7 +13,7 @@
 4. [Self-Attention Generative Adversarial Network](https://arxiv.org/pdf/1805.08318.pdf) -Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena
 5. [Research Vignette: Promise and Limitations of Generative Adversarial Nets (GANs)](https://simons.berkeley.edu/news/research-vignette-promise-and-limitations-generative-adversarial-nets-gans) - Sanjeev Arora, Princeton University
 6. [On Convergence And Stability of GANs](https://arxiv.org/pdf/1705.07215.pdf) - Naveen Kodali, Jacob Abernethy, James Hays & Zsolt Kira 
-
+7. [Generative Adversarial Networks: Introduction and Outlook](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8039016) - Kunfeng Wang, Member, Chao Gou, Yanjie Duan, Yilun Lin, Xinhu Zheng and Fei-Yue Wang
   ##### Text to Image GANs
 1. [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas, 
 2. [TAC-GAN – Text Conditioned Auxiliary Classifier Generative Adversarial Network](https://arxiv.org/abs/1703.06412) - Ayushman Dash, John Gamboa, Sheraz Ahmed, Marcus Liwicki, Muhammad Zeshan Afzal,
