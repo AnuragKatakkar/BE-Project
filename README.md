@@ -1,10 +1,8 @@
 ## Final Year Project for Academic Year 2018-19
 
-### Implementation of a Text-to-Image GAN
-
 #### Literature Survey :
 
-  ##### GANs and GAN Architecture
+  #### GANs and GAN Architecture
 
 1. [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio,
 2. [Wasserstein GAN](https://arxiv.org/abs/1701.07875) - Martin Arjovsky, Soumith Chintala, Léon Bottou,
@@ -15,7 +13,7 @@
 6. [On Convergence And Stability of GANs](https://arxiv.org/pdf/1705.07215.pdf) - Naveen Kodali, Jacob Abernethy, James Hays & Zsolt Kira 
 7. [Generative Adversarial Networks: Introduction and Outlook](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8039016) - Kunfeng Wang, Member, Chao Gou, Yanjie Duan, Yilun Lin, Xinhu Zheng and Fei-Yue Wang
 
-  ##### Text to Image GANs
+  #### Text to Image GANs
 
 1. [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas, 
 2. [TAC-GAN – Text Conditioned Auxiliary Classifier Generative Adversarial Network](https://arxiv.org/abs/1703.06412) - Ayushman Dash, John Gamboa, Sheraz Ahmed, Marcus Liwicki, Muhammad Zeshan Afzal,
@@ -29,12 +27,14 @@
 10. [Generating Text via Adversial Training](https://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf) - Yizhe Zhang, Zhe Gan, Lawrence Carin,
 11. [Generating Images from Captions with Attention](https://arxiv.org/abs/1511.02793) - Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov,
 12. [StackGAN++ : Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1710.10916) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas,
-
-  ##### Variational Autoencoders :
-1.[Auto-encoding Variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P Kingma, Max Welling,
+13. [ChatPainter: Improving Text to Image Generation using Dialogue](https://arxiv.org/pdf/1802.08216.pdf)
+Timeline: FEB 2018 Note: About improving the accuracy of generated images by asking user various questions about the picture,
+14. 
+  #### Variational Autoencoders :
+1. [Auto-encoding Variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P Kingma, Max Welling,
 2.[]()
 
-  ##### GANs for Super-resolution
+  #### GANs for Super-resolution
 
 1. [High-Resolution Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1711.06491) - Joachim D. Curtó, Irene C. Zarza, Fernando De La Torre, Irwin King, Michael R. Lyu,
 2. [Amortised MAP Inference for Image Super-resolution](https://arxiv.org/abs/1610.04490) - Casper Kaae Sønderby, Jose Caballero, Lucas Theis, Wenzhe Shi, Ferenc Huszár,
@@ -50,24 +50,20 @@
 
 #### Tentative Papers :
 
-
-1.ChatPainter: Improving Text to Image Generation using Dialogue (https://arxiv.org/pdf/1802.08216.pdf)
-Timeline: FEB 2018 Note: About improving the accuracy of generated images by asking user various questions about the picture.
-
-2.PIXELVAE: A LATENT VARIABLE MODEL FOR
+1.PIXELVAE: A LATENT VARIABLE MODEL FOR
 NATURAL IMAGES (VAE)
 (https://arxiv.org/pdf/1611.05013.pdf)
 
-3. *NOT TEXT TO IMAGE BUT INTERESTING*
+2. *NOT TEXT TO IMAGE BUT INTERESTING*
 Synthesizing Audio with Generative Adversarial Networks: (https://arxiv.org/pdf/1802.04208.pdf)
 Feb 2018
 
-4.Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial
+3.Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial
 Network (https://arxiv.org/pdf/1609.04802.pdf)
 May '17
 Note: Could be useful when we will be tackling improvement of resolution problem
 
-5. An Introduction to Image Synthesis with
+4. An Introduction to Image Synthesis with
 Generative Adversarial Nets
 (https://arxiv.org/pdf/1803.04469.pdf)https://arxiv.org/pdf/1803.04469.pdf
 note: closest to a survey I found. They refrenced about 100 papers
