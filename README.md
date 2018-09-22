@@ -6,12 +6,13 @@
 
 1. [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio,
 2. [Wasserstein GAN](https://arxiv.org/abs/1701.07875) - Martin Arjovsky, Soumith Chintala, Léon Bottou,
-
 3. [Generative Adversarial Networks(GANs) - What it can generate and what it cannot?](https://arxiv.org/pdf/1804.00140.pdf) - P Manisha, Sujit Gujar,
 4. [Self-Attention Generative Adversarial Network](https://arxiv.org/pdf/1805.08318.pdf) -Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena
 5. [Research Vignette: Promise and Limitations of Generative Adversarial Nets (GANs)](https://simons.berkeley.edu/news/research-vignette-promise-and-limitations-generative-adversarial-nets-gans) - Sanjeev Arora, Princeton University
 6. [On Convergence And Stability of GANs](https://arxiv.org/pdf/1705.07215.pdf) - Naveen Kodali, Jacob Abernethy, James Hays & Zsolt Kira 
 7. [Generative Adversarial Networks: Introduction and Outlook](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8039016) - Kunfeng Wang, Member, Chao Gou, Yanjie Duan, Yilun Lin, Xinhu Zheng and Fei-Yue Wang
+8. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572) - Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy,
+9. [Are GANs Created Equal? A Large-Scale Case Study](https://arxiv.org/abs/1711.10337) - Mario Lucic, Karol Kurach, Marcin Michalski, Sylvain Gelly, Olivier Bousquet
 
   #### Text to Image GANs
 
@@ -29,10 +30,10 @@
 12. [StackGAN++ : Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1710.10916) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas,
 13. [ChatPainter: Improving Text to Image Generation using Dialogue](https://arxiv.org/pdf/1802.08216.pdf)
 Timeline: FEB 2018 Note: About improving the accuracy of generated images by asking user various questions about the picture,
-14. 
+
   #### Variational Autoencoders :
-1. [Auto-encoding Variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P Kingma, Max Welling,
-2.[]()
+1. [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908) - Carl Doersch,
+2. [Auto-encoding Variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P Kingma, Max Welling,
 
   #### GANs for Super-resolution
 
@@ -45,8 +46,7 @@ Timeline: FEB 2018 Note: About improving the accuracy of generated images by ask
 
 
 #### Learning Resources:
-1. Tensorflow (https://www.tensorflow.org/tutorials/)
-2. Fast.ai
+1. [Tensorflow](https://www.tensorflow.org/tutorials/)
 
 #### Tentative Papers :
 
