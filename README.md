@@ -14,7 +14,9 @@
 5. [Research Vignette: Promise and Limitations of Generative Adversarial Nets (GANs)](https://simons.berkeley.edu/news/research-vignette-promise-and-limitations-generative-adversarial-nets-gans) - Sanjeev Arora, Princeton University
 6. [On Convergence And Stability of GANs](https://arxiv.org/pdf/1705.07215.pdf) - Naveen Kodali, Jacob Abernethy, James Hays & Zsolt Kira 
 7. [Generative Adversarial Networks: Introduction and Outlook](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8039016) - Kunfeng Wang, Member, Chao Gou, Yanjie Duan, Yilun Lin, Xinhu Zheng and Fei-Yue Wang
+
   ##### Text to Image GANs
+
 1. [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas, 
 2. [TAC-GAN – Text Conditioned Auxiliary Classifier Generative Adversarial Network](https://arxiv.org/abs/1703.06412) - Ayushman Dash, John Gamboa, Sheraz Ahmed, Marcus Liwicki, Muhammad Zeshan Afzal,
 3. [Learning What and Where to Draw](https://arxiv.org/abs/1610.02454) - Scott Reed, Zeynep Akata, Santosh Mohan, Samuel Tenka, Bernt Schiele, Honglak Lee,
@@ -24,8 +26,14 @@
 7. [Generate the corresponding Image from Text Description using Modified GAN-CLS Algorithm](https://arxiv.org/abs/1806.11302) - Fuzhou Gong, Zigeng Xia,
 8. [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485) - Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He,
 9. [A Novel Approach to Artistic Textual Visualization via GAN](https://arxiv.org/abs/1710.10553) - Yichi Ma, Muhan Ma
-  
-10. [Generating Text via Adversial Training](https://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf) - Yizhe Zhang, Zhe Gan, Lawrence Carin 
+10. [Generating Text via Adversial Training](https://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf) - Yizhe Zhang, Zhe Gan, Lawrence Carin,
+11. [Generating Images from Captions with Attention](https://arxiv.org/abs/1511.02793) - Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov,
+12. [StackGAN++ : Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1710.10916) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas,
+
+  ##### Variational Autoencoders :
+1.[Auto-encoding Variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P Kingma, Max Welling,
+2.[]()
+
   ##### GANs for Super-resolution
 
 1. [High-Resolution Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1711.06491) - Joachim D. Curtó, Irene C. Zarza, Fernando De La Torre, Irwin King, Michael R. Lyu,
