@@ -41,3 +41,28 @@
 2. Fast.ai
 
 #### Tentative Papers :
+
+
+1.ChatPainter: Improving Text to Image Generation using Dialogue (https://arxiv.org/pdf/1802.08216.pdf)
+Timeline: FEB 2018 Note: About improving the accuracy of generated images by asking user various questions about the picture.
+
+2.PIXELVAE: A LATENT VARIABLE MODEL FOR
+NATURAL IMAGES (VAE)
+(https://arxiv.org/pdf/1611.05013.pdf)
+
+3. *NOT TEXT TO IMAGE BUT INTERESTING*
+Synthesizing Audio with Generative Adversarial Networks: (https://arxiv.org/pdf/1802.04208.pdf)
+Feb 2018
+
+4.Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial
+Network (https://arxiv.org/pdf/1609.04802.pdf)
+May '17
+Note: Could be useful when we will be tackling improvement of resolution problem
+
+5. An Introduction to Image Synthesis with
+Generative Adversarial Nets
+(https://arxiv.org/pdf/1803.04469.pdf)https://arxiv.org/pdf/1803.04469.pdf
+note: closest to a survey I found. They refrenced about 100 papers
+
+
+
