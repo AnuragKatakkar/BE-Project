@@ -22,55 +22,35 @@ Sr. No. | Papers  | Date
 2 | [Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396) - Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee | 5 Jun, 2016
 3 | [Learning What and Where to Draw](https://arxiv.org/abs/1610.02454) - Scott Reed, Zeynep Akata, Santosh Mohan, Samuel Tenka, Bernt Schiele, Honglak Lee | 8 Oct, 2016
 4 | [TAC-GAN – Text Conditioned Auxiliary Classifier Generative Adversarial Network](https://arxiv.org/abs/1703.06412) - Ayushman Dash, John Gamboa, Sheraz Ahmed, Marcus Liwicki, Muhammad Zeshan Afzal | 26 Mar, 2017
-5 | [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas | 5 Aug, 2017
-6 | [A Novel Approach to Artistic Textual Visualization via GAN](https://arxiv.org/abs/1710.10553) - Yichi Ma, Muhan Ma | 29 Oct, 2017
-7 | [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485) - Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He | 28 Nov, 2017
-8 | [ChatPainter: Improving Text to Image Generation using Dialogue](https://arxiv.org/abs/1802.08216) | 22 Feb, 2018
-9 | [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](https://arxiv.org/abs/1803.08495) - Kevin Chen, Christopher B. Choy, Manolis Savva, Angel X. Chang, Thomas Funkhouser, Silvio Savarese | 22 Mar, 2018
-10 | [Text to Image Synthesis Using Generative Adversarial Networks](https://arxiv.org/abs/1805.00676) - Cristian Bodnar | 2 May, 2018
-11 | [StackGAN++ : Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1710.10916) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas | 28 Jun, 2018
-12 | [Generate the corresponding Image from Text Description using Modified GAN-CLS Algorithm](https://arxiv.org/abs/1806.11302) - Fuzhou Gong, Zigeng Xia | 29 Jun, 2018
+5 | [I2T2I: Learning Text to Image Synthesis with Textual Data Augmentation](https://arxiv.org/abs/1703.06676) - Hao Dong, Jingqing Zhang, Douglas McIlwraith, Yike Guo | 3 Jun, 2017
+6 | [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas | 5 Aug, 2017
+7 | [A Novel Approach to Artistic Textual Visualization via GAN](https://arxiv.org/abs/1710.10553) - Yichi Ma, Muhan Ma | 29 Oct, 2017
+8 | [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485) - Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He | 28 Nov, 2017
+9 | [ChatPainter: Improving Text to Image Generation using Dialogue](https://arxiv.org/abs/1802.08216) | 22 Feb, 2018
+10 | [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](https://arxiv.org/abs/1803.08495) - Kevin Chen, Christopher B. Choy, Manolis Savva, Angel X. Chang, Thomas Funkhouser, Silvio Savarese | 22 Mar, 2018
+11 | [Text to Image Synthesis Using Generative Adversarial Networks](https://arxiv.org/abs/1805.00676) - Cristian Bodnar | 2 May, 2018
+12 | [StackGAN++ : Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1710.10916) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas | 28 Jun, 2018
+13 | [Generate the corresponding Image from Text Description using Modified GAN-CLS Algorithm](https://arxiv.org/abs/1806.11302) - Fuzhou Gong, Zigeng Xia | 29 Jun, 2018
 
   #### Variational Autoencoders :
-1. [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908) - Carl Doersch,
-2. [Auto-encoding Variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P Kingma, Max Welling,
-
+Sr. No. | Papers  | Date
+:---------------:|:---------------:|:----------------:
+1 | [Auto-encoding Variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P Kingma, Max Welling | 1 May, 2014
+2 | [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908) - Carl Doersch | 13 Aug, 2016
+3 | [PixelVAE: A Latent Variable Model for Natural Images](https://arxiv.org/abs/1611.05013) - Ishaan Gulrajani, Kundan Kumar, Faruk Ahmed, Adrien Ali Taiga, Francesco Visin, David Vazquez, Aaron Courville | 15 Nov, 2016
+4 | [CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training](https://arxiv.org/abs/1703.10155) - Jianmin Bao, Dong Chen, Fang Wen, Houqiang Li, Gang Hua | 12 Oct, 2017
   #### GANs for Super-resolution
+Sr. No. | Papers  | Date
+:---------------:|:---------------:|:----------------:
+1 | [High-Resolution Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1711.06491) - Joachim D. Curtó, Irene C. Zarza, Fernando De La Torre, Irwin King, Michael R. Lyu   10 Jun, 2018
+2 | [Amortised MAP Inference for Image Super-resolution](https://arxiv.org/abs/1610.04490) - Casper Kaae Sønderby, Jose Caballero, Lucas Theis, Wenzhe Shi, Ferenc Huszár | 21 Feb, 2017
+3 | [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
+Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi  | 25 May, 2017
 
-1. [High-Resolution Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1711.06491) - Joachim D. Curtó, Irene C. Zarza, Fernando De La Torre, Irwin King, Michael R. Lyu,
-2. [Amortised MAP Inference for Image Super-resolution](https://arxiv.org/abs/1610.04490) - Casper Kaae Sønderby, Jose Caballero, Lucas Theis, Wenzhe Shi, Ferenc Huszár,
+  #### GANs Surveys
+Sr. No. | Papers  | Date
+:---------------:|:---------------:|:----------------:
+1 | [A Survey of Image Synthesis and Editing with Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8195348) - Xian Wu, Kun Xu and Peter Hall | 6 Dec, 2017
+2 | [An Introduction to Image Synthesis with Generative Adversarial Networks](https://arxiv.org/abs/1803.04469) - He Huang, Phillip S. Yu, Changhu Wang  | 12 Mar, 2018
 
-#### Interesting Threads :
-
-1. "[Thread on how to review papers about generic improvements to GANs](https://twitter.com/goodfellow_ian/status/978339478560415744?lang=en)" - Ian Goodfellow
-
-
-#### Learning Resources:
-1. [Tensorflow](https://www.tensorflow.org/tutorials/)
-
-#### Tentative Papers :
-
-1.PIXELVAE: A LATENT VARIABLE MODEL FOR
-NATURAL IMAGES (VAE)
-(https://arxiv.org/pdf/1611.05013.pdf)
-
-2. *NOT TEXT TO IMAGE BUT INTERESTING*
-Synthesizing Audio with Generative Adversarial Networks: (https://arxiv.org/pdf/1802.04208.pdf)
-Feb 2018
-
-3.Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial
-Network (https://arxiv.org/pdf/1609.04802.pdf)
-May '17
-Note: Could be useful when we will be tackling improvement of resolution problem
-
-4. An Introduction to Image Synthesis with
-Generative Adversarial Nets
-(https://arxiv.org/pdf/1803.04469.pdf)https://arxiv.org/pdf/1803.04469.pdf
-note: closest to a survey I found. They refrenced about 100 papers
-5. [CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training](http://openaccess.thecvf.com/content_ICCV_2017/papers/Bao_CVAE-GAN_Fine-Grained_Image_ICCV_2017_paper.pdf) - Jianmin Bao, Dong Chen, Fang Wen, Houqiang Li, Gang Hua 
-6. [I2T2I: Learning Text To Image Synthesis With Textual Data Augmentation](https://arxiv.org/pdf/1703.06676.pdf) - Hao Dong, Jingqing Zhang, Douglas McIlwraith, Yike Guo
-7. [Text-to-image Synthesis via Symmetrical Distillation Networks](https://arxiv.org/pdf/1808.06801.pdf) - Mingkuan Yuan and Yuxin Peng
-8. [PixelBrush: Art Generation from text with GANs](http://cs231n.stanford.edu/reports/2017/pdfs/322.pdf) - Jiale Zhi,Stanford University
-9. [A Survey of Image Synthesis and Editing with Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8195348) - Xian Wu, Kun Xu and Peter Hall
-
-
+[Related...](./related.md)
