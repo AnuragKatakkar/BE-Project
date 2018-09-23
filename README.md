@@ -42,7 +42,7 @@ Sr. No. | Papers  | Date
   #### GANs for Super-resolution
 Sr. No. | Papers  | Date
 :---------------:|:---------------:|:----------------:
-1 | [High-Resolution Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1711.06491) - Joachim D. Curtó, Irene C. Zarza, Fernando De La Torre, Irwin King, Michael R. Lyu   10 Jun, 2018
+1 | [High-Resolution Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1711.06491) - Joachim D. Curtó, Irene C. Zarza, Fernando De La Torre, Irwin King, Michael R. Lyu | 10 Jun, 2018
 2 | [Amortised MAP Inference for Image Super-resolution](https://arxiv.org/abs/1610.04490) - Casper Kaae Sønderby, Jose Caballero, Lucas Theis, Wenzhe Shi, Ferenc Huszár | 21 Feb, 2017
 3 | [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802) - Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi  | 25 May, 2017
 
