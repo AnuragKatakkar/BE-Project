@@ -67,6 +67,10 @@ Note: Could be useful when we will be tackling improvement of resolution problem
 Generative Adversarial Nets
 (https://arxiv.org/pdf/1803.04469.pdf)https://arxiv.org/pdf/1803.04469.pdf
 note: closest to a survey I found. They refrenced about 100 papers
-
+5. [CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training](http://openaccess.thecvf.com/content_ICCV_2017/papers/Bao_CVAE-GAN_Fine-Grained_Image_ICCV_2017_paper.pdf) - Jianmin Bao, Dong Chen, Fang Wen, Houqiang Li, Gang Hua 
+6. [I2T2I: Learning Text To Image Synthesis With Textual Data Augmentation](https://arxiv.org/pdf/1703.06676.pdf) - Hao Dong, Jingqing Zhang, Douglas McIlwraith, Yike Guo
+7. [Text-to-image Synthesis via Symmetrical Distillation Networks](https://arxiv.org/pdf/1808.06801.pdf) - Mingkuan Yuan and Yuxin Peng
+8. [PixelBrush: Art Generation from text with GANs](http://cs231n.stanford.edu/reports/2017/pdfs/322.pdf) - Jiale Zhi,Stanford University
+9. [A Survey of Image Synthesis and Editing with Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8195348) - Xian Wu, Kun Xu and Peter Hall
 
 
