@@ -39,6 +39,13 @@ Sr. No. | Papers  | Date
 2 | [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908) - Carl Doersch | 13 Aug, 2016
 3 | [PixelVAE: A Latent Variable Model for Natural Images](https://arxiv.org/abs/1611.05013) - Ishaan Gulrajani, Kundan Kumar, Faruk Ahmed, Adrien Ali Taiga, Francesco Visin, David Vazquez, Aaron Courville | 15 Nov, 2016
 4 | [CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training](https://arxiv.org/abs/1703.10155) - Jianmin Bao, Dong Chen, Fang Wen, Houqiang Li, Gang Hua | 12 Oct, 2017
+
+  #### GANs Surveys
+Sr. No. | Papers  | Date
+:---------------:|:---------------:|:----------------:
+1 | [A Survey of Image Synthesis and Editing with Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8195348) - Xian Wu, Kun Xu and Peter Hall | 6 Dec, 2017
+2 | [An Introduction to Image Synthesis with Generative Adversarial Networks](https://arxiv.org/abs/1803.04469) - He Huang, Phillip S. Yu, Changhu Wang  | 12 Mar, 2018
+
   #### GANs for Super-resolution
 Sr. No. | Papers  | Date
 :---------------:|:---------------:|:----------------:
@@ -46,10 +53,5 @@ Sr. No. | Papers  | Date
 2 | [Amortised MAP Inference for Image Super-resolution](https://arxiv.org/abs/1610.04490) - Casper Kaae Sønderby, Jose Caballero, Lucas Theis, Wenzhe Shi, Ferenc Huszár | 21 Feb, 2017
 3 | [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802) - Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi  | 25 May, 2017
 
-  #### GANs Surveys
-Sr. No. | Papers  | Date
-:---------------:|:---------------:|:----------------:
-1 | [A Survey of Image Synthesis and Editing with Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8195348) - Xian Wu, Kun Xu and Peter Hall | 6 Dec, 2017
-2 | [An Introduction to Image Synthesis with Generative Adversarial Networks](https://arxiv.org/abs/1803.04469) - He Huang, Phillip S. Yu, Changhu Wang  | 12 Mar, 2018
 
 [Related...](./related.md)
