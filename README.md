@@ -6,14 +6,13 @@
 Sr. No. | Papers  | Date
 :---------------:|:---------------:|:----------------:
 1 |  [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio | 10 June, 2014
-2 | [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572) - Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy | 20 Mar, 2015
-3 | [Generative Adversarial Networks: Introduction and Outlook](http://html.rhhz.net/ieee-jas/html/2017-4-588.htm) - Kunfeng Wang, Member, Chao Gou, Yanjie Duan, Yilun Lin, Xinhu Zheng and Fei-Yue Wang  | 2017
-4 |  [Wasserstein GAN](https://arxiv.org/abs/1701.07875) - Martin Arjovsky, Soumith Chintala, Léon Bottou | 6 Dec, 2017
-5 | [On Convergence And Stability of GANs](https://arxiv.org/abs/1705.07215) - Naveen Kodali, Jacob Abernethy, James Hays & Zsolt Kira |  10 Dec, 2017
-6 | [Research Vignette: Promise and Limitations of Generative Adversarial Nets (GANs)](https://simons.berkeley.edu/news/research-vignette-promise-and-limitations-generative-adversarial-nets-gans) - Sanjeev Arora, Princeton University | 22 Dec, 2017
-7 | [Are GANs Created Equal? A Large-Scale Case Study](https://arxiv.org/abs/1711.10337) - Mario Lucic, Karol Kurach, Marcin Michalski, Sylvain Gelly, Olivier Bousquet | 20 Mar, 2018
-8 |  [Generative Adversarial Networks(GANs) - What it can generate and what it cannot?](https://arxiv.org/abs/1804.00140) - P Manisha, Sujit Gujar  | 31 Mar, 2018
-9 | [Self-Attention Generative Adversarial Network](https://arxiv.org/abs/1805.08318) -Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena | 21 May, 2018
+2 | [Generative Adversarial Networks: Introduction and Outlook](http://html.rhhz.net/ieee-jas/html/2017-4-588.htm) - Kunfeng Wang, Member, Chao Gou, Yanjie Duan, Yilun Lin, Xinhu Zheng and Fei-Yue Wang  | 2017
+3 |  [Wasserstein GAN](https://arxiv.org/abs/1701.07875) - Martin Arjovsky, Soumith Chintala, Léon Bottou | 6 Dec, 2017
+4 | [On Convergence And Stability of GANs](https://arxiv.org/abs/1705.07215) - Naveen Kodali, Jacob Abernethy, James Hays & Zsolt Kira |  10 Dec, 2017
+5 | [Research Vignette: Promise and Limitations of Generative Adversarial Nets (GANs)](https://simons.berkeley.edu/news/research-vignette-promise-and-limitations-generative-adversarial-nets-gans) - Sanjeev Arora, Princeton University | 22 Dec, 2017
+6 | [Are GANs Created Equal? A Large-Scale Case Study](https://arxiv.org/abs/1711.10337) - Mario Lucic, Karol Kurach, Marcin Michalski, Sylvain Gelly, Olivier Bousquet | 20 Mar, 2018
+7 |  [Generative Adversarial Networks(GANs) - What it can generate and what it cannot?](https://arxiv.org/abs/1804.00140) - P Manisha, Sujit Gujar  | 31 Mar, 2018
+8 | [Self-Attention Generative Adversarial Network](https://arxiv.org/abs/1805.08318) -Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena | 21 May, 2018
 
   #### Text to Image GANs
 Sr. No. | Papers  | Date
