@@ -17,19 +17,20 @@ Sr. No. | Papers  | Date
   #### Text to Image GANs
 Sr. No. | Papers  | Date
 :---------------:|:---------------:|:----------------:
-1 | [Generating Images from Captions with Attention](https://arxiv.org/abs/1511.02793) - Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov | 29 Feb, 2016
+1 | [Generating Images from Captions with Attention](https://arxiv.org/abs/1511.02793) - Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov [git](https://github.com/emansim/text2image) | 29 Feb, 2016
 2 | [Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396) - Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee | 5 Jun, 2016
-3 | [Learning What and Where to Draw](https://arxiv.org/abs/1610.02454) - Scott Reed, Zeynep Akata, Santosh Mohan, Samuel Tenka, Bernt Schiele, Honglak Lee | 8 Oct, 2016
-4 | [TAC-GAN – Text Conditioned Auxiliary Classifier Generative Adversarial Network](https://arxiv.org/abs/1703.06412) - Ayushman Dash, John Gamboa, Sheraz Ahmed, Marcus Liwicki, Muhammad Zeshan Afzal | 26 Mar, 2017
-5 | [I2T2I: Learning Text to Image Synthesis with Textual Data Augmentation](https://arxiv.org/abs/1703.06676) - Hao Dong, Jingqing Zhang, Douglas McIlwraith, Yike Guo | 3 Jun, 2017
-6 | [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas | 5 Aug, 2017
+3 | [Learning What and Where to Draw](https://arxiv.org/abs/1610.02454) - Scott Reed, Zeynep Akata, Santosh Mohan, Samuel Tenka, Bernt Schiele, Honglak Lee  | 8 Oct, 2016
+4 | [TAC-GAN – Text Conditioned Auxiliary Classifier Generative Adversarial Network](https://arxiv.org/abs/1703.06412) - Ayushman Dash, John Gamboa, Sheraz Ahmed, Marcus Liwicki, Muhammad Zeshan Afzal [git](https://github.com/dashayushman/TAC-GAN) | 26 Mar, 2017
+5 | [I2T2I: Learning Text to Image Synthesis with Textual Data Augmentation](https://arxiv.org/abs/1703.06676) - Hao Dong, Jingqing Zhang, Douglas McIlwraith, Yike Guo [git](https://github.com/zsdonghao/im2txt2im) | 3 Jun, 2017
+6 | [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas [git-PyTorch](https://github.com/hanzhanggit/StackGAN-Pytorch) | 5 Aug, 2017
 7 | [A Novel Approach to Artistic Textual Visualization via GAN](https://arxiv.org/abs/1710.10553) - Yichi Ma, Muhan Ma | 29 Oct, 2017
-8 | [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485) - Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He | 28 Nov, 2017
+8 | [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485) - Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He [git](https://github.com/taoxugit/AttnGAN) | 28 Nov, 2017
 9 | [ChatPainter: Improving Text to Image Generation using Dialogue](https://arxiv.org/abs/1802.08216) | 22 Feb, 2018
 10 | [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](https://arxiv.org/abs/1803.08495) - Kevin Chen, Christopher B. Choy, Manolis Savva, Angel X. Chang, Thomas Funkhouser, Silvio Savarese | 22 Mar, 2018
 11 | [Text to Image Synthesis Using Generative Adversarial Networks](https://arxiv.org/abs/1805.00676) - Cristian Bodnar | 2 May, 2018
-12 | [StackGAN++ : Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1710.10916) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas | 28 Jun, 2018
+12 | [StackGAN++ : Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1710.10916) - Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas [git](https://github.com/hanzhanggit/StackGAN-v2) | 28 Jun, 2018
 13 | [Generate the corresponding Image from Text Description using Modified GAN-CLS Algorithm](https://arxiv.org/abs/1806.11302) - Fuzhou Gong, Zigeng Xia | 29 Jun, 2018
+14 | [MC-GAN: Multi-conditional Generative Adversarial Network for Image Synthesis](https://arxiv.org/pdf/1805.01123.pdf) - Hyojin Park, Young Joon Yoo, Nojun Kwak [git](https://github.com/HYOJINPARK/MC_GAN) | 15 August, 2018
 
   #### Variational Autoencoders :
 Sr. No. | Papers  | Date
