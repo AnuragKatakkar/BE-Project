@@ -5,6 +5,8 @@
 
 1. "[Thread on how to review papers about generic improvements to GANs](https://twitter.com/goodfellow_ian/status/978339478560415744?lang=en)" - Ian Goodfellow
 
+2. Twin-GAN -- Unpaired Cross-Domain Image Translation with Weight-Sharing GANs (Converts Emma Watson Images to similar looking anime characters)  https://arxiv.org/pdf/1809.00946v1.pdf Git(https://github.com/jerryli27/TwinGAN)
+
 
 #### Learning Resources:
 1. [Tensorflow](https://www.tensorflow.org/tutorials/)
