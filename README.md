@@ -40,8 +40,9 @@ _ _ _ _
 
 
 # Built Using
-* Pytorch
-* [Attentional GAN](https://arxiv.org/pdf/1711.10485)
-* Platform : Linux
+* Python
+* Flask
+* [Attentional GAN](https://arxiv.org/pdf/1711.10485) (Uses PyTorch)
+* Platform Independent
 
 ##### See our extensive Literature Survey [here](https://github.com/AnuragKatakkar/BE-Project/blob/master/First.md)
