@@ -20,7 +20,7 @@ Virtual Sketch Artist Using Generative Adversarial Networks
 
 ### Report A Problem
 
-![picture alt](https://github.com/AnuragKatakkar/BE-Project/blob/master/UI/report a problem.png "Reporting A Problem")
+![picture alt](https://github.com/AnuragKatakkar/BE-Project/blob/master/UI/report.png "Reporting A Problem")
 
 ### Account Details
 
@@ -28,7 +28,7 @@ Virtual Sketch Artist Using Generative Adversarial Networks
 
 ### About the Application
 
-![picture alt](https://github.com/AnuragKatakkar/BE-Project/blob/master/UI/about.png "About")
+![picture alt](https://github.com/AnuragKatakkar/BE-Project/blob/master/UI/About.png "About")
 
 
 # Built Using
