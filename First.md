@@ -8,7 +8,7 @@ Virtual Sketch Artist Using Generative Adversarial Networks
 ## Application
 
 ### Register 
-![picture alt](https://drive.google.com/file/d/1KMqZ5rlUQXxrxFCw__Wi_97dVZrviKaN/view?usp=sharing "Registering in the Application")
+![picture alt](https://github.com/AnuragKatakkar/BE-Project/blob/master/UI/register.png "Registering in the Application")
 
 
 # Built Using
